@@ -137,9 +137,9 @@ Submission
 
 Push the following files to the Week 2 GitHub repository:
 
-Lab-01/src/KineticEnergy.java
-Lab-01/src/CelsiusTable.java
-Lab-01/src/FutureValue.java
-Lab-01/AI-Use-Report.md
+KineticEnergy.java
+CelsiusTable.java
+FutureValue.java
+AI-Use-Report.md
 
 Make at least two meaningful commits while completing this lab. Use commit messages that describe your progress.
